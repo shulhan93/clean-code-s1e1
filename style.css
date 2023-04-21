@@ -13,7 +13,8 @@ body {
 .aaa img {
   width: 100%;
 }
-.aaa .more_inf {
+.aaa 
+.more_inf {
   font-family: fantasy, cursive;
 }
 
@@ -42,7 +43,8 @@ ul {
 li, h3 {
   list-style:none;
 }
-input,button{
+input,
+button {
   outline:none;
 }
 button {
